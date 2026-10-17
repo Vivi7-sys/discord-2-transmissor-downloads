@@ -11,7 +11,7 @@ Primeira versão estável do aplicativo GTK para compartilhar tela/janela e áud
 
 **Validado manualmente:** instalação e abertura pelo menu no Pop!_OS; imagem e áudio reais recebidos no celular pelo site público; parada, reinício e encerramento funcionando. Integrações automatizadas também verificaram exclusividade e recuperação da vaga após queda abrupta em sala isolada.
 
-**Compatibilidade validada:** Pop!_OS 24.04, COSMIC/Wayland, amd64/x86_64. Outras distribuições não verificadas. FPS efetivo, latência e capacidade de 1080p60 dependem do hardware; não se promete uma taxa medida universal.
+**Compatibilidade validada:** Pop!_OS 24.04, COSMIC/Wayland, amd64/x86_64. **Windows ainda não é compatível.** Outras distribuições não verificadas. FPS efetivo, latência e capacidade de 1080p60 dependem do hardware; não se promete uma taxa medida universal.
 
 **Áudio:** reprodução local preservada; chamadas na mesma saída podem ser capturadas. Compartilhar uma janela não restringe o áudio àquela janela. Não há isolamento de eco por aplicativo garantido.
 

@@ -2,7 +2,7 @@
 
 Instalador desktop **1.0.0** para transmitir tela/janela e áudio para salas do [Discord 2](https://discord-2-kuau.onrender.com/). Espectadores assistem pelo navegador, inclusive no celular, sem instalar o aplicativo.
 
-**Compatibilidade validada:** Pop!_OS 24.04, COSMIC/Wayland, processador amd64/x86_64. Outras distribuições e ambientes gráficos **não foram verificados**. Este instalador não atende ARM/ARM64 nem x86 de 32 bits.
+**Compatibilidade validada:** Pop!_OS 24.04, COSMIC/Wayland, processador amd64/x86_64. **Windows ainda não é compatível.** Outras distribuições e ambientes gráficos **não foram verificados**. Este instalador não atende ARM/ARM64 nem x86 de 32 bits.
 
 ## Instalar ou atualizar
 
