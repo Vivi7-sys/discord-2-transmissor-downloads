@@ -1,0 +1,10 @@
+# Binários ficam nos assets de Releases, não no histórico Git.
+*.deb
+.env*
+*.pem
+*.py
+*.cjs
+node_modules/
+src/
+tests/
+results/
